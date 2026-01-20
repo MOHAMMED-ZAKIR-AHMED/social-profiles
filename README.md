@@ -1,6 +1,6 @@
 A Card Layout Profile
 
-It's a card of "Jessica Randall" where gathered all social media handles of it 
+It's a card of "Jessica Randall" where gathered all social media handles of it </br>
 learning : Deals with js and DOM objects and better CSS performance 
 
 key takes : got a clear understanding of the queryElements in js.
