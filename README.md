@@ -10,3 +10,5 @@ Note : All buttons used in this card are Functionable to their respective platfo
 
 Here's an over-view
 
+<img width="572" height="633" alt="socialProfiles" src="https://github.com/user-attachments/assets/764f0e92-291a-45d0-9cb2-d070cd958428" />
+
